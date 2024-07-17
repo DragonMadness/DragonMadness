@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Im a somewhat experienced programmer. 5 yrs in Python and 3 yrs in Java. I also did some work with Javascript and the Vue framework. Currently going through college.
+### Im a somewhat experienced programmer. 6 yrs in Python and 4 yrs in Java. I also did some work with Javascript and the Vue framework. Currently going through college.
 
 <!--
 **DragonMadness/DragonMadness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
